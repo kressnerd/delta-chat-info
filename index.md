@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## Wilkommen auf meiner Info-Seite zu Delta Chat
 
-You can use the [editor on GitHub](https://github.com/kressnerd/delta-chat-info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Du bist auf diese Seite gekommen, da du einen Link in meiner E-Mail-Signatur angeklickt hast, die ich über Delta Chat an dich geschickt habe. 
+Für dich sieht es noch wie eine normale E-Mail aus, doch für mich ersetzt dieser Chat WhatsApp und Co. 
+Vielleicht bist du neugierig genug oder möchtest auch den in Kompfort von Delta Chat kommen. 
+Auf dieser Seite findest du kurz ein paar Infos zu dem Chat und die Details gibt es auf der [Homepage von Deta Chat](https://delta.chat/de/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Delta Chat ist wie Chatten nur besser
 
-### Markdown
+Die App sieht aus und lässt sich bedienen wie jede andere Chat-App, aber deine Chat-Partner benötigen nur eine E-Mail-Adresse.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So sieht ein Chatverlauf aus.
 
-```markdown
-Syntax highlighted code block
+![Image](chat.png)
 
-# Header 1
-## Header 2
-### Header 3
+Hier chatte ich mit Dan und schicke ihm ein Bild und eine Sprachnachricht. Weiter unten installiert er sich die App und wir schreiben automatisch verschlüsselt. Es gibt [Delta Chat Apps](https://delta.chat/en/download) für iOS, Android, Mac, Linux und Windows. Man kann auch Gruppenchats mit mehreren Leuten anlegen.
 
-- Bulleted
-- List
+### Delta Chat für immer
 
-1. Numbered
-2. List
+Kommuniziert wird über die eigene E-Mail-Adresse. 
+Es wird kein Anbieter benötig, der die Nachrichten verwaltet. 
+Daher wird Delta Chat auch dann noch laufen, wenn WhatsApp und Co. ihre Dienste einstellen.
 
-**Bold** and _Italic_ and `Code` text
+### Schütze deine Kontakte
 
-[Link](url) and ![Image](src)
-```
+Delta Chat lädt nicht dein Adressbuch an irgendeine Firma hoch. 
+Wenn du WhatsApp verwendest, dann gibst du die Daten deiner Freunde und Geschäftsparnter an Facebook weiter und zwar auch von Leuten, die dir nicht erlaubt haben, ihre Daten an Facebook zu spenden.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Schütze dich automatisch
 
-### Jekyll Themes
+Sobald deine Chatpartner auch Delta Chat verwenden, ist die Kommunikation über AutoCrypt (PGP) verschlüsselt.
+Du musst dafür nicht weiter tun.
+Achte nur auf das Schloss an der Nachricht.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kressnerd/delta-chat-info/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Ich will auch Delta Chat!
 
-### Support or Contact
+Delta Chat gibt es bei Google Play, im AppStore bei Apple
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![Image](https://delta.chat/assets/badges/get-it-on-ios.png)](https://apps.apple.com/us/app/delta-chat/id1459523234)
+
+im Google Play Store
+[![Image](https://delta.chat/assets/badges/get-it-on-gplay.png)](https://play.google.com/store/apps/details?id=chat.delta)
+
+oder auch als [Download](https://delta.chat/de/download).
+
+Zur Einrichtung gibst du deinen E-Mail-Zugang an, so wie bei jedem anderen E-Mail-Programm auch.
+
+Viele Fragen kann die [Delta Chat FAQ](https://delta.chat/de/help) beantworten.
+
+### Es geht nicht, Hilfe!
+
+Melde dich bei mir, ich helfe dir bei der Einrichtung.
+
+### Och nö, noch mehr Apps?
+
+Antworte einfach per E-Mail. 
+Du brauchst kein Delta Chat, um mit mir zu schreiben.
