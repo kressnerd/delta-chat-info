@@ -2,7 +2,7 @@
 
 Du bist auf diese Seite gekommen, da du einen Link in meiner E-Mail-Signatur angeklickt hast, die ich über Delta Chat an dich geschickt habe. 
 Für dich sieht es noch wie eine normale E-Mail aus, doch für mich ersetzt dieser Chat WhatsApp und Co. 
-Vielleicht bist du neugierig genug oder möchtest auch den in Kompfort von Delta Chat kommen. 
+Vielleicht bist du neugierig genug oder möchtest auch den in Komfort von Delta Chat kommen. 
 Auf dieser Seite findest du kurz ein paar Infos zu dem Chat und die Details gibt es auf der [Homepage von Deta Chat](https://delta.chat/de/).
 
 ### Delta Chat ist wie Chatten nur besser
@@ -39,6 +39,7 @@ Delta Chat gibt es bei Google Play, im AppStore bei Apple
 [![Image](https://delta.chat/assets/badges/get-it-on-ios.png)](https://apps.apple.com/us/app/delta-chat/id1459523234)
 
 im Google Play Store
+
 [![Image](https://delta.chat/assets/badges/get-it-on-gplay.png)](https://play.google.com/store/apps/details?id=chat.delta)
 
 oder auch als [Download](https://delta.chat/de/download).
